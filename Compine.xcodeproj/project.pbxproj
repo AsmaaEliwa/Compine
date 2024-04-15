@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7F8E7FD32BCD77D700527EC6 /* TestAssignTo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F8E7FD22BCD77D700527EC6 /* TestAssignTo.swift */; };
+		7F8E7FD52BCD822100527EC6 /* Multithreading.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F8E7FD42BCD822100527EC6 /* Multithreading.swift */; };
 		7FBA44CC2BC059D80080EF43 /* CompineApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FBA44CB2BC059D80080EF43 /* CompineApp.swift */; };
 		7FBA44CE2BC059D80080EF43 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FBA44CD2BC059D80080EF43 /* ContentView.swift */; };
 		7FBA44D02BC059DC0080EF43 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7FBA44CF2BC059DC0080EF43 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		7F8E7FD22BCD77D700527EC6 /* TestAssignTo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestAssignTo.swift; sourceTree = "<group>"; };
+		7F8E7FD42BCD822100527EC6 /* Multithreading.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Multithreading.swift; sourceTree = "<group>"; };
 		7FBA44C82BC059D80080EF43 /* Compine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Compine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FBA44CB2BC059D80080EF43 /* CompineApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompineApp.swift; sourceTree = "<group>"; };
 		7FBA44CD2BC059D80080EF43 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				7FBA44D12BC059DC0080EF43 /* Preview Content */,
 				7FBA44D92BC05A2A0080EF43 /* Timer.swift */,
 				7F8E7FD22BCD77D700527EC6 /* TestAssignTo.swift */,
+				7F8E7FD42BCD822100527EC6 /* Multithreading.swift */,
 			);
 			path = Compine;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7FBA44DA2BC05A2A0080EF43 /* Timer.swift in Sources */,
+				7F8E7FD52BCD822100527EC6 /* Multithreading.swift in Sources */,
 				7F8E7FD32BCD77D700527EC6 /* TestAssignTo.swift in Sources */,
 				7FBA44CE2BC059D80080EF43 /* ContentView.swift in Sources */,
 				7FBA44CC2BC059D80080EF43 /* CompineApp.swift in Sources */,
